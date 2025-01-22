@@ -33,6 +33,14 @@ a{
   font-weight: bold;
 }
 
+
+.notice span{
+    
+    color: black;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+}
+
 .mb-1{
     margin-bottom: 1rem;
 }
